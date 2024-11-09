@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"28bcb9e69e0e500a","type":"file","file":"Etablierte Fakten.md","x":-740,"y":180,"width":400,"height":400},
+		{"id":"26ad699d2c1c3cf4","type":"file","file":"Orte/Ellúdriun.md","x":-195,"y":440,"width":400,"height":400},
+		{"id":"8d7b60b3ae372783","type":"text","text":"Über die Welt","x":-120,"y":0,"width":250,"height":60},
+		{"id":"5861994c6f8a6a58","type":"text","text":"Eure Erfahrungen","x":-120,"y":-400,"width":250,"height":60},
+		{"id":"c127ff9f1e78f88a","x":-640,"y":-920,"width":400,"height":400,"type":"file","file":"Notizen was bisher so.md"},
+		{"id":"2731860be9b62a6b","x":360,"y":-200,"width":250,"height":60,"type":"text","text":"NPCs"},
+		{"id":"5c16b1c53ce950ab","x":485,"y":60,"width":315,"height":320,"type":"file","file":"NPCs/Gundren Rockseeker.md"}
+	],
+	"edges":[
+		{"id":"c8dbd8fc707dacdd","fromNode":"8d7b60b3ae372783","fromSide":"bottom","toNode":"26ad699d2c1c3cf4","toSide":"top"},
+		{"id":"52f6766c7f1990f2","fromNode":"8d7b60b3ae372783","fromSide":"left","toNode":"28bcb9e69e0e500a","toSide":"right"},
+		{"id":"b3113aa271f9dc2c","fromNode":"5861994c6f8a6a58","fromSide":"left","toNode":"c127ff9f1e78f88a","toSide":"bottom"},
+		{"id":"cf81aaeaf7b004d2","fromNode":"2731860be9b62a6b","fromSide":"bottom","toNode":"5c16b1c53ce950ab","toSide":"top"}
+	]
+}
