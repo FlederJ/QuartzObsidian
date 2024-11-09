@@ -1,5 +1,4 @@
-[[Ellúdriun]]:
--  [[Sword Coast]]
+[[Sword Coast]]
 	- Neverwinter
 	- [[Phandalin]]
 	- 
