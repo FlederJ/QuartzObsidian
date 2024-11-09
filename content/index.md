@@ -9,7 +9,7 @@ Diese Seite dient als Zusammenfassung und zum Teil zusätzliche Informationsquel
 [[Character|Hier]] gibt es eine Übersicht der Character.
 \
 Zudem gibt es eine [[Notizen was bisher so|Zusammenfassung]] der bisherigen Sessions und eine spezielle Seite: [[Last Session|Was zuletzt geschah]]. 
-In Zukunft werden die Sessions detailgetreuer aufgeschrieben, was auf der [[Sessions]]-Seite genauer beschrieben steht.
+In Zukunft werden die Sessions detailgetreuer aufgeschrieben, was auf der [[Sessions]]-Seite genauer ausgeführt wird. 
 
 [[NPCs]]\
 [[Orte]]
