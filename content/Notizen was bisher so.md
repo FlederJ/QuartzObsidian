@@ -25,3 +25,6 @@ Inzwischen ist der Truppe aufgefallen, dass sie den Weg am Anfang, wo die Goblin
 Dem Pfad folgend gelangt die Truppe an ein kleine Höhle, die gut vom Dickicht verborgen ist. Einige Goblins sind dort versammelt, doch alle werden rücksichtslos vernichtet. Etwas tiefer in der Höhle verbirgt sich Klarg, ein Anführer dieser Goblins. Mit seinem Wolf ist er ein schwieriger Gegner, doch die heroische Truppe besiegt ihn trotzdem.\
 Im entgegengesetzten Ende der Höhle findet sich ein Mensch, [[Sildar Hallwinter]], der als Leibwächter für Gundren gearbeitet hat. Nicht nur das, er pflegte auch ein gutes Verhältnis mit ihm und beinahe jedem anderen aus Phandalin. Doch die Goblins in dem Raum versuchten die Truppe in ein Patt zu zwingen, indem sie den Menschen über eine Klippe hielten und so jede Aktion seitens der Truppe verkomplizierte. Glücklicherweise ~~ist der Truppe das Leben Unschuldiger egal~~ konnte die Truppe geschickt die Goblins besiegen und Sildar zusätzlich am Leben halten. 
 Zur Feier dessen wurden erst einmal alle high und besoffen, was in einigen Albträumen endete und Sildar seine eigentlich wichtigen Informationen nur zum Teil an die Truppe weiterleiten konnte.
+
+Session 6:  15.7.2024\
+Cragmaw Castle wurde glücklicherweise von der Truppe durch äußerst ethische Methoden von Vernehmung der Goblins 
