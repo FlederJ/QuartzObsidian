@@ -1,4 +1,6 @@
-[[Sword Coast]]
-	- Neverwinter
+
+## [[WORLDNAME]]
+- ### [[Sword Coast]]
+	- [[Neverwinter]]
 	- [[Phandalin]]
-	- 
+

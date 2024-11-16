@@ -12,5 +12,6 @@ Zudem gibt es eine [[Notizen was bisher so|Zusammenfassung]] der bisherigen Sess
 In Zukunft werden die Sessions detailgetreuer aufgeschrieben, was auf der [[Sessions]]-Seite genauer ausgeführt wird. 
 
 [[NPCs]]\
-[[Orte]]
+[[Orte]]\
+usw.
 
