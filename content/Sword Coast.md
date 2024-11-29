@@ -1,1 +1,3 @@
+---
+---
 ![[The Sword Coast (Player).webp]]
