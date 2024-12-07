@@ -28,7 +28,7 @@ aliases:
 <details>
 <summary><h4  style="display:inline-block">NPCs</h4></summary>
 
- ![[NPCs#NPCs aus Neverwinter und Phandalin (Session 1 - TODO)]]
+ ![[NPCs#NPCs aus Neverwinter und Phandalin (Session 1 bis TODO)]]
 
 </details>
 
@@ -39,5 +39,14 @@ aliases:
 
 </details>
 
-### Zudem gibt es eine  der bisherigen Sessions und eine spezielle Seite: [[Last Session|Was zuletzt geschah]]. 
+<details>
+<summary><h4  style="display:inline-block">Items</h4></summary>
+
+ ![[Items]]
+
+</details>
+
+### Zudem gibt es einige spezielle Seiten: 
+- [[Last Session|Was zuletzt geschah]]
+- [[Etablierte Fakten]]
 ##### In Zukunft werden die Sessions detailgetreuer aufgeschrieben, was auf der [[Sessions]]-Seite genauer ausgeführt wird. 

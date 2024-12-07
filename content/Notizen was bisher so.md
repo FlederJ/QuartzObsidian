@@ -26,4 +26,4 @@ Im entgegengesetzten Ende der Höhle findet sich ein Mensch, [[Sildar Hallwinter
 Zur Feier dessen wurden erst einmal alle high und besoffen, was in einigen Albträumen endete und Sildar seine eigentlich wichtigen Informationen nur zum Teil an die Truppe weiterleiten konnte.
 
 #### Session 6:  15.7.2024
-Cragmaw Castle wurde glücklicherweise von der Truppe durch äußerst ethische Methoden von Vernehmung der Goblins 
+Cragmaw Castle wurde glücklicherweise von der Truppe durch äußerst ethische Methoden von Vernehmung der Goblins gefunden. 
