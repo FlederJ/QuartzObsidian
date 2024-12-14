@@ -1,0 +1,3 @@
+- sehr abenteuerlich
+- einziger "Abenteurer" seines [[Der Standhafte Stamm|Stamms]] = kein Fischer etc. sondern Explorer
+- etwas fanatisch seinen Göttern gegenüber

@@ -26,7 +26,7 @@ aliases:
 </details>
 
 <details>
-<summary><h4  style="display:inline-block">NPCs</h4></summary>
+<summary><h4  style="display:inline-block"><i>Dramatis Personae</i></h4></summary>
 
  ![[NPCs#NPCs aus Neverwinter und Phandalin (Session 1 bis TODO)]]
 
@@ -35,7 +35,7 @@ aliases:
 <details>
 <summary><h4  style="display:inline-block">Orte</h4></summary>
 
- ![[Orte]]
+ ![[Orte#WORLDNAME]]
 
 </details>
 
