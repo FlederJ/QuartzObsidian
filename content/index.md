@@ -49,4 +49,5 @@ aliases:
 ### Zudem gibt es einige spezielle Seiten: 
 - [[Last Session|Was zuletzt geschah]]
 - [[Etablierte Fakten]]
+- [Map](https://www.owlbear.rodeo/room/31T4v-nY6kpr/TheSolarJack)
 ##### In Zukunft werden die Sessions detailgetreuer aufgeschrieben, was auf der [[Sessions]]-Seite genauer ausgeführt wird. 
