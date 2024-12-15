@@ -4,7 +4,7 @@ description: Die Hauptseite des DnD-Wikis unserer bescheidenen Campaign
 aliases:
   - main
 ---
-## Diese Seite dient als Zusammenfassung und zum Teil zusätzliche Informationsquelle für die DnD-Abenteuer von Atraxon Dimanlotov, Tytarcanus, Wladimir Iljitsch, Devrim und Arya.
+## Diese Seite dient als Zusammenfassung und zum Teil zusätzliche Informationsquelle für die DnD-Abenteuer von Atraxon Dimanlotov, Tytarcanus, Wladimir Iljitsch, Devrim, Arya und Circe.
 ---
 
 ### Hier gibt es einige Übersichten:
