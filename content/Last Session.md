@@ -1,3 +1,15 @@
 ---
 title: Was zuletzt geschah
 ---
+- Ne und Circe getroffen
+- zu Tortle-Stamm gebracht
+- über "Nebelplage" informiert
+- auf Lauer gelegt und gewartet
+- (Jakob ins Wasser gegangen)
+- Nebelding kommt, Konfrontation, Tabaxis revealt
+- Circe verhandelt mit Tabaxis
+- Devrim hält ergreifende Rede, sodass Tortles Tabaxis akzeptieren
+- alle glücklich (nachdem Kind Xiao zurückgebracht wurde)
+- Saku bringt Truppe zum Maelstrom
+- alle kriegen Wassermagie
+- Saku redet über ihre seltsame Magie,  vergleicht mit Elemental Magic
