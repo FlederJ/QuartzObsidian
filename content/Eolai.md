@@ -19,14 +19,13 @@ Die Sprache der Wirklichkeit
 
 
 > [!NOTE] Grundlegendes
-> Verben beginnen im Infinitiv immer mit einem Vokal und enden normalerweise auf einem Konsonanten
-
+> Verben beginnen im Infinitiv immer mit einem Vokal und enden normalerweise auf ein Vokal und einen Konsonanten
 
 #### Konjugation
 
- <span style="color:#007500">Präfix vom Subjekt</span> + Infinitiv + <span style="color:#239CFF">(Suffix vom direktem Objekt)</span> +<span style="color:#F65353">(Suffix vom indirektem Objekt)</span>
+> [!NOTE] Bildung im Präsens
+ <span style="color:#007500">Präfix vom Subjekt</span> + Infinitiv + <span style="color:#239CFF">(Suffix vom direktem Objekt)</span> + <span style="color:#F65353">(Suffix vom indirektem Objekt)</span>
  
-
 | Personalpronomen (deutsch) | <span style="color:#007500">Präfix (Subjekt)</span> | <span style="color:#239CFF">Suffix (direktes Objekt, Akkusativ)</span> | <span style="color:#F65353">Suffix (indirektes Objekt, Dativ)</span> |
 | -------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | ich                        | d-                                                  | -ad                                                                    | -ed                                                                  |
@@ -37,6 +36,15 @@ Die Sprache der Wirklichkeit
 | wir(exklusiv)              | m-                                                  | -am                                                                    | -em                                                                  |
 | ihr                        | v-                                                  | -ave                                                                   | -eve                                                                 |
 | sie                        | l-                                                  | -al                                                                    | -el                                                                  |
+
+Präteritum:
+
+
+
+Futur I:
+
+
+Gerundium:
 
 
 

@@ -54,4 +54,4 @@ aliases:
 
 Ich habe mir mal wieder zu viel Mühe gemacht:
 - [[Eolai]]
-- [[Lexicon]]
+- [[Lexica Eola]]
