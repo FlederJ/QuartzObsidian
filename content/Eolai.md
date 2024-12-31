@@ -1,6 +1,8 @@
 Die Sprache der Wirklichkeit
+
+[[Lexica Eola|Hier]] sind Vokabellisten zu finden.
 ## Phoneme
-### Konsonanten
+#### Konsonanten
 (wenig "harte" Laute)
 
 |              | labial                                                                                                                                                                                                                                                                                        | coronal                                                                                                                                                                                                                                                                               | velar                                                                                                                           | uvular                                                                                                                | glottal                                                                                                                                  |
@@ -10,7 +12,12 @@ Die Sprache der Wirklichkeit
 | nasals       | [m](https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a9/Bilabial_nasal.ogg/Bilabial_nasal.ogg.mp3)                                                                                                                                                                                 | [n](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/Alveolar_nasal.ogg/Alveolar_nasal.ogg.mp3)                                                                                                                                                                         | [ŋ](https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Velar_nasal.ogg/Velar_nasal.ogg.mp3)                         | -                                                                                                                     | -                                                                                                                                        |
 | approximants | [ß/w](https://upload.wikimedia.org/wikipedia/commons/transcoded/1/11/Bilabial_approximant.ogg/Bilabial_approximant.ogg.mp3)                                                                                                                                                                   | [l](https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Alveolar_lateral_approximant.ogg/Alveolar_lateral_approximant.ogg.mp3)/[r̠](https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ae/Voiced_postalveolar_trill.ogg/Voiced_postalveolar_trill.ogg.mp3)        | -                                                                                                                               | [ʀ](https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cb/Uvular_trill.ogg/Uvular_trill.ogg.mp3)             | -                                                                                                                                        |
 
-### weitere Einschränkungen
+#### Vokale
+vor allem die uns bekannten:
+a e i o u
+mit Variationen wie ē oder æ (die allerdings selten ausgeschrieben werden; Aussprache folgt aus der Schreibweise)
+
+#### weitere Einschränkungen
 - betonte (NICHT tonale) Sprache
 - Worte können nicht mit f/v enden, __ kann nicht auf __ folgen, ... TODO
 
@@ -60,3 +67,12 @@ Wirkt sich nicht auf das Wort selbst aus, die Artikel bzw. Verben werden daran a
 Wirkt sich geringfügig auf das Wort aus:
 
 i.d.R. wird im Plural das Ende des Substantivs durch i bzw. ii ersetzt.
+
+## Rechtschreibung
+
+### Groß- und Kleinschreibung
+Namen und Lebewesen sowie Konzepte werden großgeschrieben.
+Bsp.: 
+- Da K'vara der Name einer Stadt ist, wird er großgeschrieben.
+- Da Eolai das Konzept des schaffenden Worts beschreibt, wird es großgeschrieben. 
+
