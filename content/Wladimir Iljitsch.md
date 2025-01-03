@@ -1,7 +1,7 @@
 
-| Name                                  | Spezies | Geschlecht | Klasse  | Herkunft        | Alter | Aussehen                         |
-| ------------------------------------- | ------- | ---------- | ------- | --------------- | ----- | -------------------------------- |
-| Wladimir Iljitsch, Nachname unbekannt | Aasimar | männlich   | Paladin | [[Sword Coast]] | ???   | farbenwechselnder Heiligenschein |
+| Name                                  | Spezies | Geschlecht | Klasse  | Herkunft        | Alter | Aussehen                                                        |
+| ------------------------------------- | ------- | ---------- | ------- | --------------- | ----- | --------------------------------------------------------------- |
+| Wladimir Iljitsch, Nachname unbekannt | Aasimar | männlich   | Paladin | [[Sword Coast]] | ???   | farbenwechselnder Heiligenschein (technisch gesehen radioaktiv) |
 
 ### Hintergrundgeschichte
 

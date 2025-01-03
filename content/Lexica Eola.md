@@ -25,6 +25,7 @@
 | mögen (gefallen)               | ebar    |                   |
 | lieben (viel Zuneigung)        | epar    |                   |
 | hassen                         | enepar  |                   |
+| schulden                       | edzedaw |                   |
 
 
 
@@ -63,6 +64,8 @@
 | Kälte                                             | gahrbona |
 | Hitze                                             | lheerona |
 | Gewässer (größere <br>natürlicheWasseransammlung) | vordeni  |
+|                                                   |          |
+| Schuld (ich schulde dir)                          | zedawe   |
 
 
 #### GESAMT
