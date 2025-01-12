@@ -1,31 +1,32 @@
 #### häufige Verben
 
-| Deutsch                        | Eolai   | daraus abgeleitet |
-| ------------------------------ | ------- | ----------------- |
-| sein (existieren)              | eo      |                   |
-| sein (positionsbezogen)        | es      |                   |
-| bewegen                        | aghar   | "-gha" bewegend   |
-| gehen                          | an      |                   |
-| sagen                          | awar    |                   |
-| denken                         | ewar    |                   |
-| glauben                        | ed3er   |                   |
-| wollen                         | eliir   |                   |
-| wünschen                       | evelir  |                   |
-| müssen (von "innen" gezwungen) | ezer    |                   |
-| müssen (magischer Zwang)       | ezelor  |                   |
-| sollen (von "außen")           | ezder   |                   |
-| sehen (visuell)                | idgar   |                   |
-| sehen/wahrnehmen (magisch)     | ingelor | "-elor"  magisch  |
-| lesen                          | illar   |                   |
-| hören                          | igudar  |                   |
-| riechen                        | inar    |                   |
-| schmecken                      | imar    |                   |
-| fühlen (tasten)                | igolar  |                   |
-| fühlen (als Oberbegriff)       | iwar    |                   |
-| mögen (gefallen)               | ebar    |                   |
-| lieben (viel Zuneigung)        | epar    |                   |
-| hassen                         | enepar  |                   |
-| schulden                       | edzedaw |                   |
+| Deutsch                                  | Eolai   | daraus abgeleitet |
+| ---------------------------------------- | ------- | ----------------- |
+| sein (existieren)                        | eo      |                   |
+| sein (positionsbezogen)                  | es      |                   |
+| bewegen                                  | aghar   | "-gha" bewegend   |
+| gehen                                    | an      |                   |
+| sagen                                    | awar    |                   |
+| denken                                   | ewar    |                   |
+| glauben                                  | ed3er   |                   |
+| wollen                                   | eliir   |                   |
+| wünschen                                 | evelir  |                   |
+| müssen (von "innen" gezwungen)           | ezer    |                   |
+| müssen (magischer Zwang)                 | ezelor  |                   |
+| sollen (von "außen")                     | ezder   |                   |
+| sehen (visuell)                          | idgar   |                   |
+| sehen/wahrnehmen (magisch)               | ingelor | "-elor"  magisch  |
+| lesen                                    | illar   |                   |
+| hören                                    | igudar  |                   |
+| riechen                                  | inar    |                   |
+| schmecken                                | imar    |                   |
+| fühlen (tasten)                          | igolar  |                   |
+| fühlen (als Oberbegriff)                 | iwar    |                   |
+| mögen (gefallen)                         | ebar    |                   |
+| lieben (viel Zuneigung)                  | epar    |                   |
+| hassen                                   | enepar  |                   |
+| schulden                                 | edzedaw |                   |
+| tragen (metaphorisch, z.B. Namensträger) | agrayar |                   |
 
 
 
@@ -38,6 +39,10 @@
 | groß    | odag   |
 | klein   | iwa    |
 |         |        |
+|         |        |
+|         |        |
+|         |        |
+|         |        |
 ##### Farben
 
 | Deutsch | Eolai |
@@ -47,6 +52,8 @@
 
 
 #### häufige Substantive
+-ia, -ona, -ea 
+sind häufige Endungen
 
 | Deutsch                                           | Eolai    |
 | ------------------------------------------------- | -------- |
@@ -66,6 +73,9 @@
 | Gewässer (größere <br>natürlicheWasseransammlung) | vordeni  |
 |                                                   |          |
 | Schuld (ich schulde dir)                          | zedawe   |
+|                                                   |          |
+| Feder                                             | ŋedhao   |
+| Krone                                             | maghódia |
 
 
 #### GESAMT
@@ -85,7 +95,7 @@
 | Hitze                                             | lheerona |
 | hören                                             | irar     |
 | Kälte                                             | gahrbona |
-| Lebewesen (intelligent)                           | vad3ia   |
+| Lebewesen (intelligent)                           | vad3a    |
 | Lebewesen (unintelligent)                         | drea     |
 | lesen                                             | illar    |
 | lieben (viel Zuneigung)                           | epar     |
