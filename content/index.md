@@ -35,7 +35,7 @@ aliases:
 <details>
 <summary><h4  style="display:inline-block">Orte</h4></summary>
 
- ![[Orte#WORLDNAME]]
+ ![[Orte#Ellúdriun]]
 
 </details>
 

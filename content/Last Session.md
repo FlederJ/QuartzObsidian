@@ -39,4 +39,30 @@ weiter:
 - Wladimir fällt durch illusionistischen Boden
 - Shoal Serpent gestreichelt
 - Wladimir soll nicht überall reinspringen
+
+
+weiter (nächste):
 - 
+- Trommel gefunden
+- ...
+- Sarkophag gefunden, Lore gelesen
+- Rätsel gelöst
+- zu Tempel gegangen
+- Artefakte "geborgen"
+- Zeitseil gefunden
+- ...
+- zurück gelaufen
+
+
+wieder weiter (19.3):
+- kleine Auseinandersetzung zwischen Devrim und Atraxon
+- zum Sarkophag gelaufen
+- Zeitseil öffnet den Sarkophag (annihilation von space magic)
+- Sonne ist damn happy über die Lore; denn dort ist eine time-frozen miniature Stadt 
+- Sonne loredroppt Zeug über die Stadt 
+- rausgehen
+- Diskussion zum Angriff: Sprengstoffzeug auf Häuser, Brücken; Frosch hat gelauscht!!!
+- Jakob will die ganze Zeit Sprengstoff :(
+- Angriff auf Dorf, Zivilisten in Flammes und Laubs Haus gelegt
+- Tytarcanus bombt die Häuser
+- Eis eilt um Zivilist (Mutter von ihm) zu retten. versehentlich gebombt

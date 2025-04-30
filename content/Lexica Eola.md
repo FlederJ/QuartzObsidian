@@ -1,4 +1,4 @@
-#### häufige Verben
+	#### häufige Verben
 
 | Deutsch                                  | Eolai   | daraus abgeleitet |
 | ---------------------------------------- | ------- | ----------------- |

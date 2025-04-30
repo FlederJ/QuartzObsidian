@@ -1,0 +1,2 @@
+Der *Fluch des Goldes* ist die Bezeichnung der Oberstädtler Atolls für den Zauber, welcher die Gewichtskraft in der Unterstadt abhängig von dem Goldwert im Besitz einer Person macht.
+Für die Unterstädtler ist der *Fluch* allerdings viel mehr ein Segen, der ihnen Freiheit schenkt - die Freiheit, nicht von der Oberstadt angegriffen zu werden, und direkter, die Freiheit der Lüfte - vorausgesetzt man besitzt nichts von Wert.
