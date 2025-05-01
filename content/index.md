@@ -1,5 +1,5 @@
 ---
-title: Hauptseite
+title: Die Obsidian-Chroniken
 description: Die Hauptseite des DnD-Wikis unserer bescheidenen Campaign
 aliases:
   - main
@@ -28,7 +28,7 @@ aliases:
 <details>
 <summary><h4  style="display:inline-block"><i>Dramatis Personae</i></h4></summary>
 
- ![[NPCs#NPCs aus Neverwinter und Phandalin (Session 1 bis TODO)]]
+ ![[Dramatis Personae#NPCs aus Neverwinter und Phandalin (Session 1 bis TODO)]]
 
 </details>
 

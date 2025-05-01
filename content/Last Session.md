@@ -49,7 +49,7 @@ weiter (nächste):
 - Rätsel gelöst
 - zu Tempel gegangen
 - Artefakte "geborgen"
-- Zeitseil gefunden
+- [[Zeitseil]] gefunden
 - ...
 - zurück gelaufen
 

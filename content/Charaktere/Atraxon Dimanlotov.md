@@ -3,7 +3,7 @@
 | Atraxon Dimanlotov | Vedalken | männlich   | Zauberer | ???      | ???   | ![[temp_atraxon.png]] |
 
 
-"Ich bin kein Masochist, ich mag es nur, wenn er [Tytarcanus] mich mit dem Seil auspeitscht."
+"Ich bin kein Masochist, ich mag es nur, wenn er [[[Tytarcanus]]] mich mit dem Seil auspeitscht."
 Bei dem Seil handelt es sich um das [[Zeitseil]] Cuicacoatls...
 
 

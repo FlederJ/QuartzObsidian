@@ -1,1 +1,0 @@
- *Midas' Gefallen*  beschreibt den Zauber, der das Leben jeder Person in der Oberstadt an ihren Goldbesitz bindet. Im Gegensatz zum [[Fluch des Goldes]] betrifft Midas' Gefallen nur diejenigen, die der goldenen Statue im Zentrum [[Atolla|Atollas]] ihre Opfergabe darboten und ihr Leben versiegelt haben. (Ja, es soll Leben **ver**siegelt heißen.)
