@@ -1,14 +1,14 @@
 ---
 title: Was zuletzt geschah
 ---
-- Ne und Circe getroffen
+- [[Ne]] und [[Circe]] getroffen
 - zu Tortle-Stamm gebracht
 - über "Nebelplage" informiert
 - auf Lauer gelegt und gewartet
 - (Jakob ins Wasser gegangen)
 - Nebelding kommt, Konfrontation, Tabaxis revealt
 - Circe verhandelt mit Tabaxis
-- Devrim hält ergreifende Rede, sodass Tortles Tabaxis akzeptieren
+- [[Devrim]] hält ergreifende Rede, sodass Tortles Tabaxis akzeptieren
 - alle glücklich (nachdem Kind Xiao zurückgebracht wurde)
 - Saku bringt Truppe zum Maelstrom
 - alle kriegen Wassermagie
@@ -30,7 +30,7 @@ weiter:
 
 
 - 
-- Arya fällt durch weirdes Portal -> zum Dungeon
+- [[Arya]] fällt durch weirdes Portal -> zum Dungeon
 - finden von Sprengstoffmineralien
 - avoiden von gravity trap
 - Moses-mäßig Wasser geteilt
@@ -64,7 +64,7 @@ wieder weiter (19.3):
 - Diskussion zum Angriff: Sprengstoffzeug auf Häuser, Brücken; Frosch hat gelauscht!!!
 - Jakob will die ganze Zeit Sprengstoff :(
 - Angriff auf Dorf, Zivilisten in Flammes und Laubs Haus gelegt
-- Tytarcanus bombt die Häuser
+- [[Tytarcanus]] bombt die Häuser
 - Eis eilt um Zivilist (Mutter von ihm) zu retten. versehentlich gebombt
 
 wieder weiter (1./2. 5.)
@@ -72,4 +72,11 @@ wieder weiter (1./2. 5.)
 - Kralle wird früh gedownt und Moral wird gesenkt
 - Nebel flieht
 - Atraxon versteinert sich mit dem Staff of Wonders
-- 
+- Rift zu [[Tiefen]] öffnet sich und isst Atraxon
+- Staatsform für Tabaxi etabliert (Primitivismus)
+- bewegt zur Kluft
+- Devrim fällt die Kluft herab, Atraxon schießt aus den Tiefen hervor und rettet ihn
+- zu Siedlung, dann mit Boot zum Binnenmeer Atollas
+- dort in Kabine Frau angeschrien und intimidated, sodass Truppe durchgewunken wird
+- nach Atolla gelangt
+- in Taverne gegangen
