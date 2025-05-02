@@ -74,9 +74,19 @@ wieder weiter (1./2. 5.)
 - Atraxon versteinert sich mit dem Staff of Wonders
 - Rift zu [[Tiefen]] öffnet sich und isst Atraxon
 - Staatsform für Tabaxi etabliert (Primitivismus)
-- bewegt zur Kluft
+- bewegt zur [[Kluft]]
 - Devrim fällt die Kluft herab, Atraxon schießt aus den Tiefen hervor und rettet ihn
-- zu Siedlung, dann mit Boot zum Binnenmeer Atollas
+- zu Siedlung, dann mit Boot zum Binnenmeer [[Atolla|Atollas]]
 - dort in Kabine Frau angeschrien und intimidated, sodass Truppe durchgewunken wird
-- nach Atolla gelangt
-- in Taverne gegangen
+- nach [[Atolla]] gelangt
+- zum Zentrum, Grundwissen Atolla erhalten
+- in Taverne gegangen, Devrim umgezogen, dann zum Appraisal Shop gegangen und dort Zeugs verkauft, mit obvious Diskriminierung, aber insgesamt gut rausgekommen
+- Atraxon trifft [[Die Neun Häuser#Celestyr|Celestyr]]-Abkömmling, verwandelt als Mensch
+- Atraxon geht zur Bibliothek, Arya kommt als Fliege mit, wird von Animancy-Scannern entdeckt
+- Atraxon kommt in Bibliothek rein
+- Devrim lässt mehr Zeug appraisen und verkaufen, aber Perlen nicht weil oversaturated market
+- Atraxon in Bibliothek, NICHTS zu Dimensionen, bissel Grundwissen zu Planes etc.
+- Tytarcanus geht in die [[Atolla|Unterstadt]], übt dort fliegen
+- redet mit Bibliothekar über Dimensionalität, gibt aber nur Künste dort in der Bibliothek
+- redet mit Gruppe von Leuten, die Voting System von Unter-Atolla erklären und gegen den Adel sind, aber bisschen aggressiv sind (aber gut so?)
+- geht zurück zur Oberstadt
