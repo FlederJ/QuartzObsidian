@@ -16,7 +16,7 @@ draft: true
 - Celestyr
 - Aurelios
 - Dikaison
-- Tybalba
+- Tytalba
 
 [[Atolla]]:
 - Atollas
