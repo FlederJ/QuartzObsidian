@@ -1,6 +1,6 @@
 #### Aktuelle Charaktere
 - [[Arya]]
-- [[Atraxon Dimanlotov]]
+- [[Atraxon Dimanloto]]
 - [[Tytarcanus]]
 - [[Devrim]]
 - [[Wladimir Iljitsch]]
