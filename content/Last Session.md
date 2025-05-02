@@ -66,3 +66,10 @@ wieder weiter (19.3):
 - Angriff auf Dorf, Zivilisten in Flammes und Laubs Haus gelegt
 - Tytarcanus bombt die Häuser
 - Eis eilt um Zivilist (Mutter von ihm) zu retten. versehentlich gebombt
+
+wieder weiter (1./2. 5.)
+- Kampf fortgesetzt, Eis rettet seine Mutter
+- Kralle wird früh gedownt und Moral wird gesenkt
+- Nebel flieht
+- Atraxon versteinert sich mit dem Staff of Wonders
+- 
