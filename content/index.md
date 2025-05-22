@@ -55,3 +55,4 @@ aliases:
 Ich habe mir mal wieder zu viel Mühe gemacht:
 - [[Eolai]]
 - [[Lexica Eola]]
+- [[Liste von Affixen]]
